@@ -1,0 +1,5 @@
+Unsupervised Learning Notes
+
+The Elbow Chart is very odd as it really doesnt chart in a traditional form (no sharp right angle); this is most likey due to too many outliers
+
+Many Outliers (that should be probably removed) as they are products bulit on blockchain but are not cryptocurrencies per se
